@@ -1,46 +1,45 @@
-<h1 align="center">Hi there, I'm Achmad Michael Mushoharoin 👋</h1>
-<h3 align="center">Web Developer | Full Stack Developer | Software Engineer (Junior)</h3>
+<h1 align="center">Hi there 👋, I'm Achmad Michael Mushoharoin</h1>
+<h3 align="center">🚀 Web Developer | Full Stack Developer | Software Engineer (Junior)</h3>
 
+---
+
+### 🙋‍♂️ About Me
+- 🔭 Currently working on **Web & Mobile Development Projects**
+- 🌱 Learning & exploring **Laravel, React.js, React Native, Go, Express.js, Docker, Prisma**
+- 👯 Open to collaborate on **Open Source & Real-World Projects**
+- 💬 Ask me about **JavaScript, PHP, Laravel, React, Node.js, Go, Docker**
+- ⚡ Passionate about **building scalable applications** & **optimizing user experience**
+- 📫 Reach me via:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-michael-2b84b928b) 
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadmichael03@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achmichael)
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-%2312100E.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2312100E.svg?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Software%20Engineer%20(Junior)-%2312100E.svg?style=for-the-badge&logo=java&logoColor=red" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### 🙋‍♂️ About Me:
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **Laravel, React.js, React Native, Go, Express.js**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, PHP, Laravel, React, Go, Docker, React Native**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/achmad-michael-2b84b928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** | **[Email](mailto:achmadmichael03@gmail.com)**
-
----
-
-### 🚀 Tech Stack:
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=achmichael&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmichael&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
-
-### 🔗 Connect with me:
-<p align="center">
-  <a href="[Achmad Michael Mushoharoin](https://www.linkedin.com/in/achmad-michael-2b84b928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:achmadmichael03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/achmichael">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
