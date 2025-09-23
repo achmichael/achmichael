@@ -11,3 +11,4 @@
 | 4 | 10-09-2025  | 04  | Widget Flexible dan Expanded  | [Repo 04](https://github.com/achmichael/PrakMobile-4) | [Laporan Praktikum](https://docs.google.com/document/d/1W_ao6ValLC_1CgVUE54D63Zd9wQQyZrm8FxcbyNFsqQ/edit?tab=t.0 "Laporan Praktikum")
 | 5 | 17-09-2025 | 05 | SizedBox Spacer dan Card | [Repo 05](https://github.com/achmichael/PrakMobile-5) | [Laporan Praktikum](https://docs.google.com/document/d/1A_XhKSt1myyyvCWwbt5XzGPJVm7Fm_e15bz8Whxfm44/edit?tab=t.0 "Laporan Praktikum") 
 | 6 | 17-09-2025 | 06 | GridView ListView Builder | [Repo 06](https://github.com/achmichael/PrakMobile-6) | [Laporan Praktikum](https://docs.google.com/document/d/1OEkZPo-9GFNVb41tqfSkn0aM-EqH3sB-6X2tqFifUSg/edit?tab=t.0 "Laporan Praktikum")
+| 7 | 24-09-2025 | 07 | Navigation | [Repo 07](https://github.com/achmichael/PrakMobile-7) | [Laporan Praktikum](https://docs.google.com/document/d/100Gh2OZLP4c6w9oeHlpEDUJWDzAl0jENAIZhttZH5n8/edit?tab=t.0 "Laporan Praktikum")
