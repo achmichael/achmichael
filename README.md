@@ -14,3 +14,4 @@
 | 7 | 24-09-2025 | 07 | Navigation | [Repo 07](https://github.com/achmichael/PrakMobile-7) | [Laporan Praktikum](https://docs.google.com/document/d/100Gh2OZLP4c6w9oeHlpEDUJWDzAl0jENAIZhttZH5n8/edit?tab=t.0 "Laporan Praktikum")
 | 8 | 24-09-2025 | 08 | Navigation With Arguments | [Repo 08](https://github.com/achmichael/PrakMobile-8) | [Laporan Praktikum](https://docs.google.com/document/d/1igSNzyfGOpZdVCYN2yckA5zWUFsTEZv1mQfiw3Moaf8/edit?tab=t.0)
 | 9 | 31-09-2025 | 09 | Statefull | [Repo 09](https://github.com/achmichael/PrakMobile-9) | [Laporan Praktikum](https://docs.google.com/document/d/1s24FbroehHneEvi5t10TjQ7mKk1VkbYVehJEHbCcqTI/edit?tab=t.0 "Laporan Praktikum")
+| 10 | 08-10-2025 | 10 | GUI, Navigasi dan Integrasi Dengan JSON | [Repo 10](https://github.com/achmichael/PrakMobile-10) | [Laporan Praktikum](https://docs.google.com/document/d/1feb72OeI2ozVnC9XUqnTZFz9acBRhug3SKYJjXh-XIU/edit?tab=t.0 "Laporan Praktikum")
