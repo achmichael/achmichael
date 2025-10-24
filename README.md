@@ -16,3 +16,4 @@
 | 9 | 31-09-2025 | 09 | Statefull | [Repo 09](https://github.com/achmichael/PrakMobile-9) | [Laporan Praktikum](https://drive.google.com/drive/folders/1qfQIJnyRfYDyx9aROuc5R4Z4VF2T4ShA?usp=drive_link "Laporan Praktikum")
 | 10 | 08-10-2025 | 10 | GUI, Navigasi dan Integrasi Dengan JSON | [Repo 10](https://github.com/achmichael/PrakMobile-10) | [Laporan Praktikum](https://drive.google.com/drive/folders/1AeCoHlqE58lpPJji3-HRyg8OsSZCjdos?usp=drive_link "Laporan Praktikum")
 | 11 | 15-10-2025 | 11 | Manajemen State dengan GetX | [Repo 11](https://github.com/achmichael/PrakMobile-11) | [Laporan Praktikum](https://drive.google.com/drive/folders/1_xggpb8IFtqJVufl0a4wVcRQecBy4I4Z?usp=drive_link "Laporan Praktikum")
+| 12 | 24-10-2025 | 12 | UTS | [Repo UTS](https://github.com/achmichael/UAS-Mobile.git) | [Lapaoran UTS](https://drive.google.com/file/d/12M5Frnff7nQFYz2fwHoyNIBkc-mtripW/view?usp=drive_link "Laporan UTS")
