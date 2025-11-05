@@ -17,3 +17,4 @@
 | 10 | 08-10-2025 | 10 | GUI, Navigasi dan Integrasi Dengan JSON | [Repo 10](https://github.com/achmichael/PrakMobile-10) | [Laporan Praktikum](https://drive.google.com/drive/folders/1AeCoHlqE58lpPJji3-HRyg8OsSZCjdos?usp=drive_link "Laporan Praktikum")
 | 11 | 15-10-2025 | 11 | Manajemen State dengan GetX | [Repo 11](https://github.com/achmichael/PrakMobile-11) | [Laporan Praktikum](https://drive.google.com/drive/folders/1_xggpb8IFtqJVufl0a4wVcRQecBy4I4Z?usp=drive_link "Laporan Praktikum")
 | 12 | 24-10-2025 | 12 | UTS | [Repo UTS](https://github.com/achmichael/UAS-Mobile.git) | [Lapaoran UTS](https://drive.google.com/file/d/1O0l7dHIHU-JWBLF0lSoVEoiTCNdnxoz4/view?usp=drive_link "Laporan UTS")
+| 13 | 05-11-2025 | 13 | Akses Lokasi dalam Flutter | [Repo 12](https://github.com/achmichael/PrakMobile-12) | [Laporan Praktikum](https://drive.google.com/file/d/1FYJr3GX-EGWr5XeIKrfhJF_jLWzLTNYW/view?usp=drive_link "Laporan Praktikum")
